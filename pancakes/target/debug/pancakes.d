@@ -1,0 +1,1 @@
+/Users/ozergokalpsezer/Desktop/rust/project/pancakes/target/debug/pancakes: /Users/ozergokalpsezer/Desktop/rust/project/hello_macro/hello_macro_derive/src/lib.rs /Users/ozergokalpsezer/Desktop/rust/project/hello_macro/src/lib.rs /Users/ozergokalpsezer/Desktop/rust/project/pancakes/src/main.rs
